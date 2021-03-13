@@ -6,7 +6,6 @@
     .embed-container {
         width: 100%;
         height: auto;
-        /* margin-top: 10px; */
     }
 
     .embed-container iframe,
@@ -17,11 +16,8 @@
     }
 
     small {
-        /* position: absolute; */
         z-index: 40;
         margin-right: auto;
-        /* margin-bottom: -15px; */
-
     }
 </style>
 
