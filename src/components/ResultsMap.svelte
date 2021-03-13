@@ -14,11 +14,6 @@
         width: 100%;
         height: 75vh;
     }
-
-    small {
-        z-index: 40;
-        margin-right: auto;
-    }
 </style>
 
 <div>
